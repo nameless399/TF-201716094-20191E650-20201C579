@@ -1,7 +1,6 @@
 ## Complejidad Algoritmica - CC184
 ![](https://github.com/IbrahimImanol/TF-201716094-20191E650-20201C579/blob/henry/Imagenes/UPC.png)
 ## Integrantes
-- Ibrahim Imanol Jordi, Arquiñigo Jacinto -  U20191E650
 - Luis Roberto, Arroyo Bonifaz            -  U201716094
 - Henry Josué, Diaz Huarcaya              -  U20201C579 
 
